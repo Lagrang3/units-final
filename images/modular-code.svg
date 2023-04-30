@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="882.83215mm"
+   height="431.62506mm"
+   viewBox="0 0 882.83216 431.62506"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="modular-code.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path894"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1335"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1333"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path891"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path897"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path885"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="620.80818 : 434.43313 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="1008.3053 : 456.70491 : 1"
+       inkscape:persp3d-origin="713.9726 : 318.09511 : 1"
+       id="perspective815" />
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1335-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1333-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-7"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path891-0"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-3"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart-7-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path891-0-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend-9-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path894-3-6"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.32"
+     inkscape:cx="1850.7245"
+     inkscape:cy="604.40794"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(506.6793,-46.77218)">
+    <g
+       sodipodi:type="inkscape:box3d"
+       id="g817"
+       style="opacity:1;fill:#000000;fill-opacity:0.44957987;stroke:#000000;stroke-width:1.13399994;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       inkscape:perspectiveID="#perspective815"
+       inkscape:corner0="-0.43083924 : 0.099038908 : 0 : 1"
+       inkscape:corner7="-0.58928255 : 0.055836339 : 0.11282525 : 1">
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path819"
+         style="fill:#000000;fill-opacity:0.44957987;fill-rule:evenodd;stroke:#000000;stroke-width:1.13399994;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:box3dsidetype="6"
+         d="M 277.81624,99.162888 V 175.06863 L 314.8425,153.79822 V 90.450044 Z"
+         points="277.81624,175.06863 314.8425,153.79822 314.8425,90.450044 277.81624,99.162888 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path827"
+         style="fill:#000000;fill-opacity:0.44957987;fill-rule:evenodd;stroke:#000000;stroke-width:1.13399994;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:box3dsidetype="13"
+         d="m 277.81624,175.06863 63.146,41.0075 34.6236,-36.54488 -60.74334,-25.73303 z"
+         points="340.96224,216.07613 375.58584,179.53125 314.8425,153.79822 277.81624,175.06863 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path829"
+         style="fill:#000000;fill-opacity:0.44957987;fill-rule:evenodd;stroke:#000000;stroke-width:1.13399994;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:box3dsidetype="11"
+         d="m 314.8425,90.450044 60.74334,6.561539 V 179.53125 L 314.8425,153.79822 Z"
+         points="375.58584,97.011583 375.58584,179.53125 314.8425,153.79822 314.8425,90.450044 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path821"
+         style="fill:#000000;fill-opacity:0.44957987;fill-rule:evenodd;stroke:#000000;stroke-width:1.13399994;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:box3dsidetype="5"
+         d="m 277.81624,99.162888 63.146,11.725182 34.6236,-13.876487 -60.74334,-6.561539 z"
+         points="340.96224,110.88807 375.58584,97.011583 314.8425,90.450044 277.81624,99.162888 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path825"
+         style="fill:#000000;fill-opacity:0.44957987;fill-rule:evenodd;stroke:#000000;stroke-width:1.13399994;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:box3dsidetype="14"
+         d="m 340.96224,110.88807 v 105.18806 l 34.6236,-36.54488 V 97.011583 Z"
+         points="340.96224,216.07613 375.58584,179.53125 375.58584,97.011583 340.96224,110.88807 " />
+      <path
+         sodipodi:type="inkscape:box3dside"
+         id="path823"
+         style="fill:#000000;fill-opacity:0.44957987;fill-rule:evenodd;stroke:#000000;stroke-width:1.13399994;stroke-linejoin:round;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:box3dsidetype="3"
+         d="m 277.81624,99.162888 63.146,11.725182 v 105.18806 l -63.146,-41.0075 z"
+         points="340.96224,110.88807 340.96224,216.07613 277.81624,175.06863 277.81624,99.162888 " />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="289.32031"
+       y="77.632545"
+       id="text861"><tspan
+         sodipodi:role="line"
+         id="tspan859"
+         x="289.32031"
+         y="77.632545"
+         style="font-size:16.93333244px;stroke-width:0.26458332">Resources</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-505.23178"
+       y="57.493317"
+       id="text879"><tspan
+         sodipodi:role="line"
+         id="tspan877"
+         x="-505.23178"
+         y="57.493317"
+         style="stroke-width:0.26458332">Gevolution main application</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.04789042;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart);marker-end:url(#Arrow1Mend)"
+       d="m 139.25828,143.45631 c 79.81499,-17.21842 104.83025,0.5068 133.94686,-1.53074"
+       id="path1866"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.43012381;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect863-5"
+       width="341.46078"
+       height="125.24694"
+       x="-123.22963"
+       y="350.43524"
+       ry="0.18584289" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-117.65711"
+       y="371.81702"
+       id="text867-3"><tspan
+         sodipodi:role="line"
+         id="tspan865-5"
+         x="-117.65711"
+         y="371.81702"
+         style="font-size:16.93333244px;stroke-width:0.26458332">#include &lt;gevolution/gevolution.hpp&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="-117.65711"
+         y="381.43503"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan6960" /><tspan
+         sodipodi:role="line"
+         x="-117.65711"
+         y="397.83438"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan6958">int main()</tspan><tspan
+         sodipodi:role="line"
+         x="-117.65711"
+         y="419.00104"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan869-6">{</tspan><tspan
+         sodipodi:role="line"
+         x="-117.65711"
+         y="440.16769"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan871-2">// ...</tspan><tspan
+         sodipodi:role="line"
+         x="-117.65711"
+         y="461.33438"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan873-9">}</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-125.5284"
+       y="337.71863"
+       id="text879-1"><tspan
+         sodipodi:role="line"
+         id="tspan877-2"
+         x="-125.5284"
+         y="337.71863"
+         style="stroke-width:0.26458332">Gadget4 main application</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.48814869;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-7);marker-end:url(#Arrow1Mend-9)"
+       d="m 37.070948,223.006 c 35.254506,58.37473 7.896626,66.38582 43.18438,118.38885"
+       id="path1866-6"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:5.90016127;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect863-5-0"
+       width="337.54996"
+       height="149.58159"
+       x="-503.72922"
+       y="69.682388"
+       ry="0.22195093" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-498.39172"
+       y="90.829132"
+       id="text867-3-6"><tspan
+         sodipodi:role="line"
+         id="tspan865-5-2"
+         x="-498.39172"
+         y="90.829132"
+         style="font-size:16.93333244px;stroke-width:0.26458332">#include &lt;gevolution/gevolution.hpp&gt;</tspan><tspan
+         sodipodi:role="line"
+         x="-498.39172"
+         y="100.44715"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan6960-6" /><tspan
+         sodipodi:role="line"
+         x="-498.39172"
+         y="116.84649"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan6958-1">int main()</tspan><tspan
+         sodipodi:role="line"
+         x="-498.39172"
+         y="138.01315"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan869-6-8">{</tspan><tspan
+         sodipodi:role="line"
+         x="-498.39172"
+         y="159.17982"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan871-2-7">// ...</tspan><tspan
+         sodipodi:role="line"
+         x="-498.39172"
+         y="180.34648"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan873-9-9">}</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.58001614;stroke-miterlimit:1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect863-5-0-2"
+       width="201.61749"
+       height="150.90173"
+       x="-67.491692"
+       y="67.420326"
+       ry="0.22390978" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-63.832695"
+       y="91.258537"
+       id="text867-3-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan865-5-2-7"
+         x="-63.832695"
+         y="94.691917"
+         style="font-size:16.93333244px;stroke-width:0.26458332" /><tspan
+         sodipodi:role="line"
+         x="-63.832695"
+         y="99.542618"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan6960-6-5" /><tspan
+         sodipodi:role="line"
+         x="-63.832695"
+         y="115.94196"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan6958-1-9">namespace gevolution</tspan><tspan
+         sodipodi:role="line"
+         x="-63.832695"
+         y="137.10863"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan869-6-8-2">{</tspan><tspan
+         sodipodi:role="line"
+         x="-63.832695"
+         y="158.27528"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan871-2-7-2">// ...</tspan><tspan
+         sodipodi:role="line"
+         x="-63.832695"
+         y="179.44196"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan873-9-9-8">}</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:3.70277548;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart-7-9);marker-end:url(#Arrow1Mend-9-3)"
+       d="m -78.808674,148.51138 c 0,0 -28.488206,-3.63598 -70.439146,0.0619"
+       id="path1866-6-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.11111069px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-69.473732"
+       y="58.130074"
+       id="text879-3"><tspan
+         sodipodi:role="line"
+         id="tspan877-6"
+         x="-69.473732"
+         y="58.130074"
+         style="stroke-width:0.26458332">Gevolution library</tspan></text>
+  </g>
+</svg>
