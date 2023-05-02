@@ -2,7 +2,8 @@
 
 \makeatletter
 \newcommand{\mylabel}{%
-   [\beamer@againname]}
+   %[\beamer@againname]%
+}
 \makeatother
 
 \mode<presentation>%
@@ -85,7 +86,7 @@ minimum width=3cm, minimum height=.5cm, text centered, draw=black, fill=blue!30]
 \frame{\sectionpage}
 
 \begin{frame}[label=cosmologyLCDM]
-    \frametitle{\insertsection\mylabel}
+    \frametitle{The standard cosmological model\mylabel}
     \begin{figure}
         \includegraphics[width=.39\textwidth]{images/dark-sector.png}
         \includegraphics[width=.59\textwidth]{images/planck2015.png}
@@ -126,7 +127,7 @@ minimum width=3cm, minimum height=.5cm, text centered, draw=black, fill=blue!30]
 \end{frame}
 
 \begin{frame}[plain,label=simulations]
-    \frametitle{\mylabel}
+    \frametitle{Simulations\mylabel}
     \begin{figure}
         \includegraphics[height=.8\textheight]{images/magneticum.png}
         \caption{Magneticum simulation; Dolag et al. 2015.}
@@ -134,7 +135,7 @@ minimum width=3cm, minimum height=.5cm, text centered, draw=black, fill=blue!30]
 \end{frame}
 
 \begin{frame}[label=ligergevolution]
-    \frametitle{\insertsection\mylabel}
+    \frametitle{Relativistic codes\mylabel}
     \begin{figure}
         \centering
         \begin{subfigure}{0.49\textwidth}
@@ -157,7 +158,7 @@ minimum width=3cm, minimum height=.5cm, text centered, draw=black, fill=blue!30]
 % \end{frame}
 
 \begin{frame}[label=pmvstreepm]
-    \frametitle{\mylabel}
+    \frametitle{TreePM vs PM\mylabel}
     \begin{figure}
         \begin{subfigure}[b]{.49\textwidth}
         \includegraphics[width=\textwidth]{images/gevolution-z0.png}%
@@ -198,6 +199,31 @@ minimum width=3cm, minimum height=.5cm, text centered, draw=black, fill=blue!30]
     we usually use $\chi=\Phi-\Psi$.
 \end{frame}
 
+\begin{frame}{label=fieldeq}
+    \frametitle{Field equations}%
+    From Einstein equations we obtain
+    \begin{equation}
+        \nabla^2 \Phi 
+        - 3\frac{\Hconf}{c^2} \dot\Phi -
+        3\frac{\Hconf^2}{c^2} \Phi
+        = \frac{4\pi G a^2}{c^4} \Delta T^0{}_0
+    \end{equation}
+    \begin{equation}
+        \nabla^2 B_i
+        = \frac{16\pi G a^2}{c^4} \Delta T^0{}_i - 4\partial_i(
+        \frac{\dot\Phi}{c} +
+        \frac{\Hconf}{c} \Psi  )
+    \end{equation}
+    \begin{equation}
+        \nabla^2 \chi
+        = \frac{4\pi G a^2}{c^4} \Delta T^n{}_n + 3 \frac{\Hconf^2}{c^2} \Phi
+    \end{equation}
+    \begin{equation}
+        \frac{1}{c^2} \ddot h^i{}_j- \nabla^2 h^i{}_j + 2 \frac{\Hconf}{c^2} {\dot h}^i{}_j
+        = - \frac{16\pi G a^2}{c^4} P_{\perp}\left( \Delta T^i{}_j -
+	\frac{\delta^i_j}{3} \Delta T^n{}_n\right)
+    \end{equation}
+\end{frame}
 
 \begin{frame}[label=greffects]
     \frametitle{Relativistic effects\mylabel}
@@ -369,12 +395,12 @@ minimum width=3cm, minimum height=.5cm, text centered, draw=black, fill=blue!30]
 \end{columns}
 \end{frame}
 
-\begin{frame}[label=drift2]
-    \frametitle{Time steps\mylabel}
-    \begin{figure}
-        \includegraphics[width=\textwidth]{images/gadget4-timestep.png}
-    \end{figure}
-\end{frame}
+% \begin{frame}[label=drift2]
+%     \frametitle{Time steps\mylabel}
+%     \begin{figure}
+%         \includegraphics[width=\textwidth]{images/gadget4-timestep.png}
+%     \end{figure}
+% \end{frame}
 
 
 
@@ -449,30 +475,30 @@ let $\color{red} r_b$ be the GR smoothing scale and $\color{blue}r_a$ the PM smo
 \section{Tests and Results}
 \frame{\sectionpage}
 
-\begin{frame}[label=testsummary]
-    \frametitle{\mylabel}
-    \begin{itemize}
-    	\setlength\itemsep{1em}
-    	\item Newtonian forces; 
-		% sanity check, coherent Tree+PM addition
-	\item Matter power spectrum, in Newtonian regime;
-		% expect near identical amplitudes
-	\item GR matter power spectrum; 
-		% expect matching in the small scales and GR features in the
-		% large scales
-	\item Potentials power spectrum;
-		% TreePM vs PM,
-	\item GR smoothing scale;
-		% what are the results of diffent rb choices?
-		% how far can we extend the GR limit?
-	\item Convergence/resolution test;
-		% do we get the same results when we change the resolution of
-		% the simulations?
-	\item Performance of the code;
-		% What is the comp. burden of running GrGadget with a GR PM
-		% instead of the Newtonian PM?
-    \end{itemize}
-\end{frame}
+% \begin{frame}[label=testsummary]
+%     \frametitle{\mylabel}
+%     \begin{itemize}
+%     	\setlength\itemsep{1em}
+%     	\item Newtonian forces; 
+% 		% sanity check, coherent Tree+PM addition
+% 	\item Matter power spectrum, in Newtonian regime;
+% 		% expect near identical amplitudes
+% 	\item GR matter power spectrum; 
+% 		% expect matching in the small scales and GR features in the
+% 		% large scales
+% 	\item Potentials power spectrum;
+% 		% TreePM vs PM,
+% 	\item GR smoothing scale;
+% 		% what are the results of diffent rb choices?
+% 		% how far can we extend the GR limit?
+% 	\item Convergence/resolution test;
+% 		% do we get the same results when we change the resolution of
+% 		% the simulations?
+% 	\item Performance of the code;
+% 		% What is the comp. burden of running GrGadget with a GR PM
+% 		% instead of the Newtonian PM?
+%     \end{itemize}
+% \end{frame}
 
 \begin{frame}[label=forcetest]
     \frametitle{Newtonian force test\mylabel}
@@ -643,10 +669,27 @@ let $\color{red} r_b$ be the GR smoothing scale and $\color{blue}r_a$ the PM smo
 
 \begin{frame}[label=outlook]
     \frametitle{Outlook\mylabel}
+    \begin{equation}
+        \nabla^2 B_i
+        = \frac{16\pi G a^2}{c^4} \Delta T^0{}_i - 4\partial_i(
+        \frac{\dot\Phi}{c} +
+        \frac{\Hconf}{c} \Psi  )
+    \end{equation}
     The presence of vector perturbations will be detectable in the RSD
     multipoles at $x<\SI{10}{Mpc}/h$ (Bonvin et al. 2018).
     % either as a test for GR over mod. gravity
     % or as an additional effect to consider to avoid systematic errors.
+    
+    \vskip1em
+    
+    Vorticity is enhanced by velocity dispersion in f(R) theories (Thomas et al.
+    2015).
+    
+    \vskip1em
+    
+    We could use GrGadget to extract the unique GR or mod. gravity signals from
+    RSD.
+    
 \end{frame}
 
 \begin{frame}[label=questions]
